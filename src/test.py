@@ -1,10 +1,12 @@
 from collections.abc import MutableMapping
 import collections
 
+
 collections.MutableMapping = collections.abc.MutableMapping
 from dronekit import connect, VehicleMode
 
 vehicle = None
+
 
 def connect_drone(connection_string, waitready=True, baudrate=57600):
     global vehicle
@@ -12,30 +14,48 @@ def connect_drone(connection_string, waitready=True, baudrate=57600):
         vehicle = connect(connection_string, wait_ready=waitready, baud=baudrate)
     print("drone connected")
 
-connect_drone("/dev/ttyACM0")
-
-
-print("Autopilot Firmware version: %s" % vehicle.version)
-
-
 def disconnect_drone():
     global vehicle
     vehicle.close()
-    #print("drone disconnected")
-
-#disconnect_drone()
-
+    print("drone disconnected")
+    
 def rtl():
     vehicle.mode = VehicleMode("RTL")
 
-vehicle.simple_takeoff(10)
+#register this as a service
+# main
 
-for i in range(5):
-    print(f"Last heartbeat is: {vehicle.last_heartbeat}")
+### INITIALIZATION BLOCK ###
+# connect to drone
+connect_drone("/dev/ttyACM0")
+cam = Camera()
+cam.still_size = (2592, 1944)
+# start recording
+
+### INFINITE LOOP ###
+
+while True:
+    #	flight modes: stabilize, althold, loiter, and rtl
+#	if the state is liftoff for the first time, trigger camera recording
+#	if vehicle.mode=LOITER: trigger object detection / inference
+#	while vehicle.mode==LOITER and if there is banana: do nothing
+#		if you stop seeing banana: issue rtl
+
+
+#	check if there is landed property
+    
+
+
 
 rtl()
-
-for i in range(5):
-    print(f"Last heartbeat is: {vehicle.last_heartbeat}")
-
 print(f"Vehicle mode is: {vehicle.mode}")
+
+### END OF EXECUTION ###
+# if landed: stop recording
+disconnect_drone()
+
+
+
+
+
+
