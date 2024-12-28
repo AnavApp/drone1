@@ -4,7 +4,7 @@ import collections
 
 collections.MutableMapping = collections.abc.MutableMapping
 from dronekit import connect, VehicleMode
-from picamzero import Camera
+from picamera2 import Picamera2, Preview
 from time import sleep
 from datetime import datetime
 vehicle = None
@@ -30,13 +30,13 @@ def rtl():
 ### INITIALIZATION BLOCK ###
 # connect to drone
 connect_drone("/dev/ttyACM0")
-cam = Camera()
-cam.still_size = (2592, 1944)
+picam2 = Picamera2()
+picam2.start_preview(Preview.QTGL)
 # start recording
 
 ### INFINITE LOOP ###
 
-while True:
+#while True:
     #	flight modes: stabilize, althold, loiter, and rtl
 #	if the state is liftoff for the first time, trigger camera recording
 #	if vehicle.mode=LOITER: trigger object detection / inference
