@@ -1,21 +1,40 @@
 from collections.abc import MutableMapping
 import collections
-
-
 collections.MutableMapping = collections.abc.MutableMapping
+
+import dronekit
 from dronekit import connect, VehicleMode
 #from picamera2 import Picamera2, Preview
 from time import sleep
 from datetime import datetime
+import socket
+#import exceptions
+
+
 vehicle = None
 
 
 def connect_drone(connection_string, waitready=True, baudrate=57600):
     global vehicle
-    if vehicle == None:
-        vehicle = connect(connection_string, wait_ready=waitready, baud=baudrate)
-    print("drone connected")
+    try:
+        if vehicle == None:
+            vehicle = connect(connection_string, wait_ready=waitready, baud=baudrate)
+        print("drone connected")
+    # Bad TCP connection
+    except socket.error:
+        print('No server exists!')
 
+    # Bad TTY connection
+    except OSError as e:
+        print('No serial exists!')
+
+    # API Error
+    except dronekit.APIException:
+        print ('Timeout!')
+
+
+    except Exception as err:
+        print(Exception, err)
 def disconnect_drone():
     global vehicle
     vehicle.close()

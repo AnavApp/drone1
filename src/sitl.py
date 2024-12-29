@@ -1,9 +1,11 @@
 from collections.abc import MutableMapping
 import collections
+import psutil
 
 
 collections.MutableMapping = collections.abc.MutableMapping
-
+my_pid = None
+pids = psutil.pids()
 print ("Start simulator (SITL)")
 import dronekit_sitl
 sitl = dronekit_sitl.start_default()
@@ -14,7 +16,17 @@ from dronekit import connect, VehicleMode
 
 # Connect to the Vehicle.
 print("Connecting to vehicle on: %s" % (connection_string,))
-vehicle = connect(connection_string, wait_ready=True)
+#vehicle = connect(connection_string, wait_ready=True)
+vehicle = connect('tcp:127.0.0.1:5760', wait_ready=True)
+for pid in pids:
+    try:
+        ps = psutil.Process(pid)
+        name = ps.name()
+    except psutil.NoSuchProcess:  # Catch the error caused by the process no longer existing
+        pass  # Ignore it
+    else:
+        if "solitaire.exe" in name:
+            print(f"{name} running with pid: {pid}")
 
 # Get some vehicle attributes (state)
 
