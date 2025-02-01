@@ -1,3 +1,4 @@
+import math
 from collections.abc import MutableMapping
 import collections
 collections.MutableMapping = collections.abc.MutableMapping
@@ -20,6 +21,11 @@ picam2 = None  # Global Picamera2 instance
 fire_percentages = [] # List to store fire percentages
 fire_detection_running = False # Flag to control fire detection loop
 
+# Camera specifications
+HORIZONTAL_FOV = 60  # degrees
+VERTICAL_FOV = 45    # degrees
+DRONE_ALTITUDE = 20  # feet
+
 def detect_fire(frame):
     """
     Detects fire in the given frame and returns the percentage of the frame that is fire.
@@ -38,6 +44,30 @@ def detect_fire(frame):
     fire_percentage = (cv2.countNonZero(mask) / (frame.size / 3)) * 100
     
     return fire_percentage
+
+def calculate_ground_area():
+    """
+    Calculates the ground area covered by the camera based on its FOV and the drone's altitude.
+    """
+    # Convert FOV from degrees to radians
+    h_fov_rad = math.radians(HORIZONTAL_FOV)
+    v_fov_rad = math.radians(VERTICAL_FOV)
+    
+    # Calculate the width and height of the ground area covered by the camera
+    ground_width = 2 * DRONE_ALTITUDE * math.tan(h_fov_rad / 2)
+    ground_height = 2 * DRONE_ALTITUDE * math.tan(v_fov_rad / 2)
+    
+    # Calculate the ground area
+    ground_area = ground_width * ground_height
+    return ground_area
+
+def calculate_fire_area(fire_percentage):
+    """
+    Calculates the area of the fire based on the percentage of the image flagged as fire.
+    """
+    ground_area = calculate_ground_area()
+    fire_area = (fire_percentage / 100) * ground_area
+    return fire_area
 
 def connect_drone(connection_string, waitready=True, baudrate=57600):
     global vehicle
@@ -120,6 +150,10 @@ def start_fire_detection():
         fire_percentages.append(fire_percentage)  # Save the percentage to the list
         print(f"Fire detected in {fire_percentage:.2f}% of the frame")
 
+        # Calculate the fire area based on the percentage
+        fire_area = calculate_fire_area(fire_percentage)
+        print(f"Estimated fire area: {fire_area:.2f} square feet")
+
         # Display the frame with fire detection result
         cv2.imshow("Fire Detection", frame)
         
@@ -136,6 +170,13 @@ def calculate_average_fire_percentage():
     if not fire_percentages:
         return 0.0
     return sum(fire_percentages) / len(fire_percentages)
+
+def calculate_average_fire_area():
+    """
+    Calculates the average fire area over time based on the stored percentages.
+    """
+    average_fire_percentage = calculate_average_fire_percentage()
+    return calculate_fire_area(average_fire_percentage)
 
 def disconnect_drone():
     global vehicle, picam2
@@ -211,9 +252,11 @@ rtl()
 
 print(f"Vehicle mode is: {vehicle.mode}")
 
-# Calculate and print the average fire percentage
+# Calculate and print the average fire percentage and area
 average_fire_percentage = calculate_average_fire_percentage()
+average_fire_area = calculate_average_fire_area()
 print(f"Average fire percentage over time: {average_fire_percentage:.2f}%")
+print(f"Average fire area over time: {average_fire_area:.2f} square feet")
 
 ### END OF EXECUTION ###
 # if landed: stop recording
