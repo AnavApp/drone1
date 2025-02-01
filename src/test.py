@@ -15,9 +15,29 @@ import cv2
 import numpy as np
 
 
-vehicle = None
+vehicle = None # Global Vehicle instance
 picam2 = None  # Global Picamera2 instance
+fire_percentages = [] # List to store fire percentages
+fire_detection_running = False # Flag to control fire detection loop
 
+def detect_fire(frame):
+    """
+    Detects fire in the given frame and returns the percentage of the frame that is fire.
+    """
+    # Convert the frame to HSV color space
+    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+    
+    # Define the range of fire color in HSV
+    lower_fire = np.array([0, 50, 50])
+    upper_fire = np.array([35, 255, 255])
+    
+    # Threshold the HSV image to get only fire colors
+    mask = cv2.inRange(hsv, lower_fire, upper_fire)
+    
+    # Calculate the percentage of the frame that is fire
+    fire_percentage = (cv2.countNonZero(mask) / (frame.size / 3)) * 100
+    
+    return fire_percentage
 
 def connect_drone(connection_string, waitready=True, baudrate=57600):
     global vehicle
@@ -83,6 +103,39 @@ def arm_and_takeoff(aTargetAltitude):
             break
         sleep(1)
 
+    # Start fire detection
+    start_fire_detection()
+
+def start_fire_detection():
+    global picam2, fire_percentages, fire_detection_running
+    print("Starting fire detection...")
+    fire_detection_running = True
+
+    # Start capturing frames
+    while fire_detection_running:
+        frame = picam2.capture_array()  # Capture a frame using Picamera2
+
+        # Detect fire in the frame
+        fire_percentage = detect_fire(frame)
+        fire_percentages.append(fire_percentage)  # Save the percentage to the list
+        print(f"Fire detected in {fire_percentage:.2f}% of the frame")
+
+        # Display the frame with fire detection result
+        cv2.imshow("Fire Detection", frame)
+        
+        # Break the loop if 'q' is pressed
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+            break
+
+    cv2.destroyAllWindows()
+
+def calculate_average_fire_percentage():
+    """
+    Calculates the average percentage of fire detected over time.
+    """
+    if not fire_percentages:
+        return 0.0
+    return sum(fire_percentages) / len(fire_percentages)
 
 def disconnect_drone():
     global vehicle, picam2
@@ -96,7 +149,7 @@ def disconnect_drone():
     print("drone disconnected")
 
 def rtl():
-    global vehicle, picam2
+    global vehicle, picam2, fire_detection_running
     vehicle.mode = VehicleMode("RTL")
     print("RTL initiated...")
 
@@ -104,6 +157,9 @@ def rtl():
     while vehicle.mode == VehicleMode("RTL"):
         print("Waiting for RTL to complete...")
         sleep(1)
+
+    # Signal to stop fire detection
+    fire_detection_running = False
 
     # Stop recording when RTL is done
     print("RTL complete, stopping camera recording...")
@@ -154,6 +210,10 @@ rtl()
 #	check if there is landed property
 
 print(f"Vehicle mode is: {vehicle.mode}")
+
+# Calculate and print the average fire percentage
+average_fire_percentage = calculate_average_fire_percentage()
+print(f"Average fire percentage over time: {average_fire_percentage:.2f}%")
 
 ### END OF EXECUTION ###
 # if landed: stop recording
