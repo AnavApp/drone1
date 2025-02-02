@@ -101,7 +101,7 @@ def arm_and_takeoff(aTargetAltitude):
     print("Basic pre-arm checks")
     # Don't try to arm until autopilot is ready
     while not vehicle.is_armable:
-        print(" Waiting for vehicle to initialise...")
+        print(" Waiting for vehicle to initialise... (vehicle is not armable)")
         sleep(1)
 
     print("Arming motors")
@@ -217,8 +217,8 @@ def vfr_hud_callback(self, name, message):
 
 ### INITIALIZATION BLOCK ###
 # connect to drone
-#connect_drone("/dev/ttyACM0") # for linux/raspberrypi
-connect_drone("/dev/tty.usbmodem01") # for mac
+connect_drone("/dev/ttyACM0") # for linux/raspberrypi
+#connect_drone("/dev/tty.usbmodem01") # for mac
 
 # Initialize Picamera2
 picam2 = Picamera2()
