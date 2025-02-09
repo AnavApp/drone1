@@ -21,9 +21,9 @@ picam2 = None  # Global Picamera2 instance
 fire_percentages = [] # List to store fire percentages
 fire_detection_running = False # Flag to control fire detection loop
 
-# Camera specifications
-HORIZONTAL_FOV = 60  # degrees
-VERTICAL_FOV = 45    # degrees
+# Camera specifications for Arducam 12MP IMX708
+HORIZONTAL_FOV = 102  # degrees (IMX708)
+VERTICAL_FOV = 66    # degrees (IMX708)
 DRONE_ALTITUDE = 20  # feet
 
 def detect_fire(frame):
@@ -33,8 +33,8 @@ def detect_fire(frame):
     # Convert the frame to HSV color space
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
     
-    # Define the range of fire color in HSV
-    lower_fire = np.array([0, 50, 50])
+    # Define the range of fire color in HSV (adjusted for IMX708 characteristics)
+    lower_fire = np.array([0, 40, 40])
     upper_fire = np.array([35, 255, 255])
     
     # Threshold the HSV image to get only fire colors
@@ -71,7 +71,7 @@ def calculate_fire_area(fire_percentage):
 
 def connect_drone(connection_string, waitready=True, baudrate=57600):
     global vehicle
-    print("Got here!")
+    print("trying connection!")
     try:
         if vehicle == None:
             vehicle = connect(connection_string, wait_ready=waitready, baud=baudrate)
@@ -222,6 +222,10 @@ connect_drone("/dev/ttyACM0") # for linux/raspberrypi
 
 # Initialize Picamera2
 picam2 = Picamera2()
+
+# Configure Picamera2 for the Arducam 12MP IMX708 resolution (full resolution: 4056x3040)
+config = picam2.create_still_configuration(main={"size": (4056, 3040)})
+picam2.configure(config)
 
 # Uncomment this to preview on-screen (optional)
 # picam2.start_preview(Preview.QTGL)

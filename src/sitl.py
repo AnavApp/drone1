@@ -2,6 +2,7 @@ from collections.abc import MutableMapping
 import collections
 import psutil
 
+collections.MutableMapping = collections.abc.MutableMapping
 
 collections.MutableMapping = collections.abc.MutableMapping
 my_pid = None
