@@ -184,6 +184,7 @@ picam2.configure(config)
 # picam2.start_preview(Preview.QTGL)
 
 arm_and_takeoff(20)
+print("ready")
 print("Ready to RTL")
 
 # Add the message listener to the vehicle
