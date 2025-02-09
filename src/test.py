@@ -241,8 +241,8 @@ vehicle.add_message_listener('VFR_HUD', vfr_hud_callback)
 # start recording
 
 ### INFINITE LOOP ###
-print("RTL in 15 seconds")
-sleep(15)
+print("RTL in 120 seconds")
+sleep(120)
 rtl()
 #while True:
     #	flight modes: stabilize, althold, loiter, and rtl
