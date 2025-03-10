@@ -1,0 +1,3383 @@
+printing data at 2025-03-09 18:13:24
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+printing data at 2025-03-09 18:13:25
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.02 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+printing data at 2025-03-09 18:13:26
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.38 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+printing data at 2025-03-09 18:13:27
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.77 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+printing data at 2025-03-09 18:13:28
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.20 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+printing data at 2025-03-09 18:13:29
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.45 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+printing data at 2025-03-09 18:13:30
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1018.88 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+printing data at 2025-03-09 18:13:31
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.08 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+printing data at 2025-03-09 18:13:32
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.12 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+printing data at 2025-03-09 18:13:33
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.14 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+printing data at 2025-03-09 18:13:34
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.22 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+printing data at 2025-03-09 18:13:35
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.32 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+printing data at 2025-03-09 18:13:36
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.33 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+printing data at 2025-03-09 18:13:37
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.33 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+printing data at 2025-03-09 18:13:38
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+printing data at 2025-03-09 18:13:39
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+printing data at 2025-03-09 18:13:40
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.27 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+printing data at 2025-03-09 18:13:42
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+printing data at 2025-03-09 18:13:43
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+printing data at 2025-03-09 18:13:44
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+printing data at 2025-03-09 18:13:45
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.35 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+printing data at 2025-03-09 18:13:46
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.31 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+printing data at 2025-03-09 18:13:47
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.47 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+printing data at 2025-03-09 18:13:48
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.48 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+printing data at 2025-03-09 18:13:49
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.45 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+printing data at 2025-03-09 18:13:50
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.48 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+printing data at 2025-03-09 18:13:51
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.44 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+printing data at 2025-03-09 18:13:52
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.48 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+printing data at 2025-03-09 18:13:53
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.39 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+printing data at 2025-03-09 18:13:54
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.45 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+printing data at 2025-03-09 18:13:55
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.41 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+printing data at 2025-03-09 18:13:56
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.41 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+printing data at 2025-03-09 18:13:57
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:56, Altitude: -0.18 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.46 hPa
+2025-03-09 18:13:57, Pressure: 1019.46 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:56, Wind Speed: 0.07 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+2025-03-09 18:13:56, Tarp Area: 0.10 square meters
+printing data at 2025-03-09 18:13:58
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:56, Altitude: -0.18 m
+2025-03-09 18:13:57, Altitude: -0.14 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.46 hPa
+2025-03-09 18:13:57, Pressure: 1019.46 hPa
+2025-03-09 18:13:58, Pressure: 1019.46 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:56, Wind Speed: 0.07 m/s
+2025-03-09 18:13:57, Wind Speed: 0.00 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+2025-03-09 18:13:56, Tarp Area: 0.10 square meters
+2025-03-09 18:13:57, Tarp Area: 0.05 square meters
+printing data at 2025-03-09 18:13:59
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:56, Altitude: -0.18 m
+2025-03-09 18:13:57, Altitude: -0.14 m
+2025-03-09 18:13:58, Altitude: -0.16 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.46 hPa
+2025-03-09 18:13:57, Pressure: 1019.46 hPa
+2025-03-09 18:13:58, Pressure: 1019.41 hPa
+2025-03-09 18:13:59, Pressure: 1019.43 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:56, Wind Speed: 0.07 m/s
+2025-03-09 18:13:57, Wind Speed: 0.00 m/s
+2025-03-09 18:13:58, Wind Speed: 0.03 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+2025-03-09 18:13:56, Tarp Area: 0.10 square meters
+2025-03-09 18:13:57, Tarp Area: 0.05 square meters
+2025-03-09 18:13:58, Tarp Area: 0.07 square meters
+printing data at 2025-03-09 18:14:00
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:56, Altitude: -0.18 m
+2025-03-09 18:13:57, Altitude: -0.14 m
+2025-03-09 18:13:58, Altitude: -0.16 m
+2025-03-09 18:13:59, Altitude: -0.17 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.46 hPa
+2025-03-09 18:13:57, Pressure: 1019.46 hPa
+2025-03-09 18:13:58, Pressure: 1019.41 hPa
+2025-03-09 18:13:59, Pressure: 1019.43 hPa
+2025-03-09 18:14:00, Pressure: 1019.38 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:56, Wind Speed: 0.07 m/s
+2025-03-09 18:13:57, Wind Speed: 0.00 m/s
+2025-03-09 18:13:58, Wind Speed: 0.03 m/s
+2025-03-09 18:13:59, Wind Speed: 0.02 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+2025-03-09 18:13:56, Tarp Area: 0.10 square meters
+2025-03-09 18:13:57, Tarp Area: 0.05 square meters
+2025-03-09 18:13:58, Tarp Area: 0.07 square meters
+2025-03-09 18:13:59, Tarp Area: 0.09 square meters
+printing data at 2025-03-09 18:14:02
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:56, Altitude: -0.18 m
+2025-03-09 18:13:57, Altitude: -0.14 m
+2025-03-09 18:13:58, Altitude: -0.16 m
+2025-03-09 18:13:59, Altitude: -0.17 m
+2025-03-09 18:14:00, Altitude: -0.17 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.46 hPa
+2025-03-09 18:13:57, Pressure: 1019.46 hPa
+2025-03-09 18:13:58, Pressure: 1019.41 hPa
+2025-03-09 18:13:59, Pressure: 1019.43 hPa
+2025-03-09 18:14:00, Pressure: 1019.38 hPa
+2025-03-09 18:14:01, Pressure: 1019.46 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:56, Wind Speed: 0.07 m/s
+2025-03-09 18:13:57, Wind Speed: 0.00 m/s
+2025-03-09 18:13:58, Wind Speed: 0.03 m/s
+2025-03-09 18:13:59, Wind Speed: 0.02 m/s
+2025-03-09 18:14:00, Wind Speed: 0.05 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+2025-03-09 18:13:56, Tarp Area: 0.10 square meters
+2025-03-09 18:13:57, Tarp Area: 0.05 square meters
+2025-03-09 18:13:58, Tarp Area: 0.07 square meters
+2025-03-09 18:13:59, Tarp Area: 0.09 square meters
+2025-03-09 18:14:01, Tarp Area: 0.09 square meters
+printing data at 2025-03-09 18:14:03
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:56, Altitude: -0.18 m
+2025-03-09 18:13:57, Altitude: -0.14 m
+2025-03-09 18:13:58, Altitude: -0.16 m
+2025-03-09 18:13:59, Altitude: -0.17 m
+2025-03-09 18:14:00, Altitude: -0.17 m
+2025-03-09 18:14:02, Altitude: -0.20 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.46 hPa
+2025-03-09 18:13:57, Pressure: 1019.46 hPa
+2025-03-09 18:13:58, Pressure: 1019.41 hPa
+2025-03-09 18:13:59, Pressure: 1019.43 hPa
+2025-03-09 18:14:00, Pressure: 1019.38 hPa
+2025-03-09 18:14:01, Pressure: 1019.46 hPa
+2025-03-09 18:14:02, Pressure: 1019.47 hPa
+2025-03-09 18:14:03, Pressure: 1019.42 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:56, Wind Speed: 0.07 m/s
+2025-03-09 18:13:57, Wind Speed: 0.00 m/s
+2025-03-09 18:13:58, Wind Speed: 0.03 m/s
+2025-03-09 18:13:59, Wind Speed: 0.02 m/s
+2025-03-09 18:14:00, Wind Speed: 0.05 m/s
+2025-03-09 18:14:02, Wind Speed: 0.10 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+2025-03-09 18:13:56, Tarp Area: 0.10 square meters
+2025-03-09 18:13:57, Tarp Area: 0.05 square meters
+2025-03-09 18:13:58, Tarp Area: 0.07 square meters
+2025-03-09 18:13:59, Tarp Area: 0.09 square meters
+2025-03-09 18:14:01, Tarp Area: 0.09 square meters
+2025-03-09 18:14:02, Tarp Area: 0.12 square meters
+printing data at 2025-03-09 18:14:04
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:56, Altitude: -0.18 m
+2025-03-09 18:13:57, Altitude: -0.14 m
+2025-03-09 18:13:58, Altitude: -0.16 m
+2025-03-09 18:13:59, Altitude: -0.17 m
+2025-03-09 18:14:00, Altitude: -0.17 m
+2025-03-09 18:14:02, Altitude: -0.20 m
+2025-03-09 18:14:03, Altitude: -0.19 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.46 hPa
+2025-03-09 18:13:57, Pressure: 1019.46 hPa
+2025-03-09 18:13:58, Pressure: 1019.41 hPa
+2025-03-09 18:13:59, Pressure: 1019.43 hPa
+2025-03-09 18:14:00, Pressure: 1019.38 hPa
+2025-03-09 18:14:01, Pressure: 1019.46 hPa
+2025-03-09 18:14:02, Pressure: 1019.47 hPa
+2025-03-09 18:14:03, Pressure: 1019.37 hPa
+2025-03-09 18:14:04, Pressure: 1019.45 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:56, Wind Speed: 0.07 m/s
+2025-03-09 18:13:57, Wind Speed: 0.00 m/s
+2025-03-09 18:13:58, Wind Speed: 0.03 m/s
+2025-03-09 18:13:59, Wind Speed: 0.02 m/s
+2025-03-09 18:14:00, Wind Speed: 0.05 m/s
+2025-03-09 18:14:02, Wind Speed: 0.10 m/s
+2025-03-09 18:14:03, Wind Speed: 0.07 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+2025-03-09 18:13:56, Tarp Area: 0.10 square meters
+2025-03-09 18:13:57, Tarp Area: 0.05 square meters
+2025-03-09 18:13:58, Tarp Area: 0.07 square meters
+2025-03-09 18:13:59, Tarp Area: 0.09 square meters
+2025-03-09 18:14:01, Tarp Area: 0.09 square meters
+2025-03-09 18:14:02, Tarp Area: 0.12 square meters
+2025-03-09 18:14:03, Tarp Area: 0.10 square meters
+printing data at 2025-03-09 18:14:05
+2025-03-09 18:13:22, Altitude: 19.43 m
+2025-03-09 18:13:24, Altitude: 19.69 m
+2025-03-09 18:13:25, Altitude: 17.95 m
+2025-03-09 18:13:26, Altitude: 15.48 m
+2025-03-09 18:13:27, Altitude: 12.82 m
+2025-03-09 18:13:28, Altitude: 10.09 m
+2025-03-09 18:13:29, Altitude: 7.33 m
+2025-03-09 18:13:30, Altitude: 4.62 m
+2025-03-09 18:13:31, Altitude: 3.27 m
+2025-03-09 18:13:32, Altitude: 3.26 m
+2025-03-09 18:13:33, Altitude: 2.82 m
+2025-03-09 18:13:34, Altitude: 2.54 m
+2025-03-09 18:13:35, Altitude: 1.99 m
+2025-03-09 18:13:36, Altitude: 1.54 m
+2025-03-09 18:13:37, Altitude: 1.28 m
+2025-03-09 18:13:38, Altitude: 1.09 m
+2025-03-09 18:13:39, Altitude: 0.77 m
+2025-03-09 18:13:40, Altitude: 0.74 m
+2025-03-09 18:13:42, Altitude: 0.71 m
+2025-03-09 18:13:43, Altitude: 0.51 m
+2025-03-09 18:13:44, Altitude: 0.56 m
+2025-03-09 18:13:45, Altitude: 0.58 m
+2025-03-09 18:13:46, Altitude: -0.53 m
+2025-03-09 18:13:47, Altitude: -0.84 m
+2025-03-09 18:13:48, Altitude: -0.84 m
+2025-03-09 18:13:49, Altitude: -0.94 m
+2025-03-09 18:13:50, Altitude: -0.93 m
+2025-03-09 18:13:51, Altitude: -0.83 m
+2025-03-09 18:13:52, Altitude: -0.66 m
+2025-03-09 18:13:53, Altitude: -0.50 m
+2025-03-09 18:13:54, Altitude: -0.36 m
+2025-03-09 18:13:55, Altitude: -0.26 m
+2025-03-09 18:13:56, Altitude: -0.18 m
+2025-03-09 18:13:57, Altitude: -0.14 m
+2025-03-09 18:13:58, Altitude: -0.16 m
+2025-03-09 18:13:59, Altitude: -0.17 m
+2025-03-09 18:14:00, Altitude: -0.17 m
+2025-03-09 18:14:02, Altitude: -0.20 m
+2025-03-09 18:14:03, Altitude: -0.19 m
+2025-03-09 18:14:04, Altitude: -0.06 m
+2025-03-09 18:13:23, Pressure: 1016.88 hPa
+2025-03-09 18:13:24, Pressure: 1016.98 hPa
+2025-03-09 18:13:25, Pressure: 1017.31 hPa
+2025-03-09 18:13:26, Pressure: 1017.60 hPa
+2025-03-09 18:13:27, Pressure: 1017.96 hPa
+2025-03-09 18:13:28, Pressure: 1018.36 hPa
+2025-03-09 18:13:29, Pressure: 1018.78 hPa
+2025-03-09 18:13:30, Pressure: 1019.03 hPa
+2025-03-09 18:13:31, Pressure: 1019.14 hPa
+2025-03-09 18:13:32, Pressure: 1019.15 hPa
+2025-03-09 18:13:33, Pressure: 1019.03 hPa
+2025-03-09 18:13:34, Pressure: 1019.32 hPa
+2025-03-09 18:13:35, Pressure: 1019.36 hPa
+2025-03-09 18:13:36, Pressure: 1019.36 hPa
+2025-03-09 18:13:37, Pressure: 1019.25 hPa
+2025-03-09 18:13:38, Pressure: 1019.28 hPa
+2025-03-09 18:13:39, Pressure: 1019.27 hPa
+2025-03-09 18:13:40, Pressure: 1019.23 hPa
+2025-03-09 18:13:41, Pressure: 1019.31 hPa
+2025-03-09 18:13:42, Pressure: 1019.31 hPa
+2025-03-09 18:13:43, Pressure: 1019.37 hPa
+2025-03-09 18:13:44, Pressure: 1019.36 hPa
+2025-03-09 18:13:45, Pressure: 1019.36 hPa
+2025-03-09 18:13:46, Pressure: 1019.43 hPa
+2025-03-09 18:13:47, Pressure: 1019.49 hPa
+2025-03-09 18:13:48, Pressure: 1019.52 hPa
+2025-03-09 18:13:49, Pressure: 1019.48 hPa
+2025-03-09 18:13:50, Pressure: 1019.42 hPa
+2025-03-09 18:13:51, Pressure: 1019.43 hPa
+2025-03-09 18:13:52, Pressure: 1019.44 hPa
+2025-03-09 18:13:53, Pressure: 1019.46 hPa
+2025-03-09 18:13:54, Pressure: 1019.44 hPa
+2025-03-09 18:13:55, Pressure: 1019.45 hPa
+2025-03-09 18:13:56, Pressure: 1019.46 hPa
+2025-03-09 18:13:57, Pressure: 1019.46 hPa
+2025-03-09 18:13:58, Pressure: 1019.41 hPa
+2025-03-09 18:13:59, Pressure: 1019.43 hPa
+2025-03-09 18:14:00, Pressure: 1019.38 hPa
+2025-03-09 18:14:01, Pressure: 1019.46 hPa
+2025-03-09 18:14:02, Pressure: 1019.47 hPa
+2025-03-09 18:14:03, Pressure: 1019.37 hPa
+2025-03-09 18:14:04, Pressure: 1019.44 hPa
+2025-03-09 18:14:05, Pressure: 1019.43 hPa
+2025-03-09 18:13:22, Wind Speed: 0.11 m/s
+2025-03-09 18:13:24, Wind Speed: 0.13 m/s
+2025-03-09 18:13:25, Wind Speed: 0.00 m/s
+2025-03-09 18:13:26, Wind Speed: 0.06 m/s
+2025-03-09 18:13:27, Wind Speed: 0.05 m/s
+2025-03-09 18:13:28, Wind Speed: 0.02 m/s
+2025-03-09 18:13:29, Wind Speed: 0.07 m/s
+2025-03-09 18:13:30, Wind Speed: 0.00 m/s
+2025-03-09 18:13:31, Wind Speed: 0.38 m/s
+2025-03-09 18:13:32, Wind Speed: 0.07 m/s
+2025-03-09 18:13:33, Wind Speed: 0.07 m/s
+2025-03-09 18:13:34, Wind Speed: 0.32 m/s
+2025-03-09 18:13:35, Wind Speed: 0.38 m/s
+2025-03-09 18:13:36, Wind Speed: 0.03 m/s
+2025-03-09 18:13:37, Wind Speed: 0.05 m/s
+2025-03-09 18:13:38, Wind Speed: 0.17 m/s
+2025-03-09 18:13:39, Wind Speed: 0.11 m/s
+2025-03-09 18:13:40, Wind Speed: 0.01 m/s
+2025-03-09 18:13:42, Wind Speed: 0.14 m/s
+2025-03-09 18:13:43, Wind Speed: 0.14 m/s
+2025-03-09 18:13:44, Wind Speed: 0.26 m/s
+2025-03-09 18:13:45, Wind Speed: 0.18 m/s
+2025-03-09 18:13:46, Wind Speed: 0.18 m/s
+2025-03-09 18:13:47, Wind Speed: 0.22 m/s
+2025-03-09 18:13:48, Wind Speed: 0.03 m/s
+2025-03-09 18:13:49, Wind Speed: 0.02 m/s
+2025-03-09 18:13:50, Wind Speed: 0.02 m/s
+2025-03-09 18:13:51, Wind Speed: 0.03 m/s
+2025-03-09 18:13:52, Wind Speed: 0.04 m/s
+2025-03-09 18:13:53, Wind Speed: 0.09 m/s
+2025-03-09 18:13:54, Wind Speed: 0.09 m/s
+2025-03-09 18:13:55, Wind Speed: 0.01 m/s
+2025-03-09 18:13:56, Wind Speed: 0.07 m/s
+2025-03-09 18:13:57, Wind Speed: 0.00 m/s
+2025-03-09 18:13:58, Wind Speed: 0.03 m/s
+2025-03-09 18:13:59, Wind Speed: 0.02 m/s
+2025-03-09 18:14:00, Wind Speed: 0.05 m/s
+2025-03-09 18:14:02, Wind Speed: 0.10 m/s
+2025-03-09 18:14:03, Wind Speed: 0.07 m/s
+2025-03-09 18:14:04, Wind Speed: 0.13 m/s
+2025-03-09 18:13:23, Tarp Area: 0.53 square meters
+2025-03-09 18:13:24, Tarp Area: 0.59 square meters
+2025-03-09 18:13:25, Tarp Area: 0.39 square meters
+2025-03-09 18:13:26, Tarp Area: 0.41 square meters
+2025-03-09 18:13:27, Tarp Area: 0.49 square meters
+2025-03-09 18:13:28, Tarp Area: 1.13 square meters
+2025-03-09 18:13:29, Tarp Area: 6.70 square meters
+2025-03-09 18:13:30, Tarp Area: 14.61 square meters
+2025-03-09 18:13:31, Tarp Area: 9.53 square meters
+2025-03-09 18:13:32, Tarp Area: 8.27 square meters
+2025-03-09 18:13:33, Tarp Area: 7.48 square meters
+2025-03-09 18:13:34, Tarp Area: 5.87 square meters
+2025-03-09 18:13:35, Tarp Area: 4.90 square meters
+2025-03-09 18:13:36, Tarp Area: 4.50 square meters
+2025-03-09 18:13:37, Tarp Area: 1.21 square meters
+2025-03-09 18:13:38, Tarp Area: 0.04 square meters
+2025-03-09 18:13:39, Tarp Area: 0.45 square meters
+2025-03-09 18:13:41, Tarp Area: 1.20 square meters
+2025-03-09 18:13:42, Tarp Area: 1.09 square meters
+2025-03-09 18:13:43, Tarp Area: 0.55 square meters
+2025-03-09 18:13:44, Tarp Area: 0.71 square meters
+2025-03-09 18:13:45, Tarp Area: 0.26 square meters
+2025-03-09 18:13:46, Tarp Area: 0.83 square meters
+2025-03-09 18:13:47, Tarp Area: 2.17 square meters
+2025-03-09 18:13:48, Tarp Area: 2.32 square meters
+2025-03-09 18:13:49, Tarp Area: 2.68 square meters
+2025-03-09 18:13:50, Tarp Area: 2.61 square meters
+2025-03-09 18:13:51, Tarp Area: 2.09 square meters
+2025-03-09 18:13:52, Tarp Area: 1.32 square meters
+2025-03-09 18:13:53, Tarp Area: 0.66 square meters
+2025-03-09 18:13:54, Tarp Area: 0.39 square meters
+2025-03-09 18:13:55, Tarp Area: 0.17 square meters
+2025-03-09 18:13:56, Tarp Area: 0.10 square meters
+2025-03-09 18:13:57, Tarp Area: 0.05 square meters
+2025-03-09 18:13:58, Tarp Area: 0.07 square meters
+2025-03-09 18:13:59, Tarp Area: 0.09 square meters
+2025-03-09 18:14:01, Tarp Area: 0.09 square meters
+2025-03-09 18:14:02, Tarp Area: 0.12 square meters
+2025-03-09 18:14:03, Tarp Area: 0.10 square meters
+2025-03-09 18:14:04, Tarp Area: 0.01 square meters
+                                                                                                                                                                                                         
