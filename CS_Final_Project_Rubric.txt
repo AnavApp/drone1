@@ -1,0 +1,188 @@
+Final Project – Rubric
+Advance Java Topics and Machine Learning
+Project
+
+Points: 55
+
+
+
+Data structure(s) used_______________________
+
+10
+
+
+
+Multiple classes
+○ Driver/Client program
+○ Other supporting classes
+
+15
+
+Basic comments
+○ Short description of each method
+○ Each class should have name of student and the
+description/purpose of the class
+
+5
+
+Working program
+○ No errors when run.
+○ Produces intended output
+Result
+○ Program works successfully
+○ Output is readable, sensible and meaningful
+
+10
+
+
+
+README (txt, word, or pdf) (submitted)
+How to run, use, and interpret program output.
+
+5
+
+
+
+Submission
+o Submitted on time: _______
+o All required files to run the project
+ Students created programs
+ Data ( short dataset)
+ ‘Read Me’ doc (with links to the external files used)
+ Screenshots of the output (& input if required)
+
+10
+
+
+
+
+
+
+Project Write-up
+
+Points: 15
+
+
+
+Title, Student Name, Class
+
+1
+
+
+
+Project summary
+o Explain goal of program
+ What did you measure?
+o Explain where data is from/how to get data
+o Explain progress as of submission
+
+6
+
+
+
+Project description
+o Explain what each class does in the program
+o Explain the key algorithm the program implements (Ex. ID3)
+
+6
+
+
+
+Citation
+o If outside libraries or references were used, they should be
+cited.
+
+2
+
+Power Point Presentation
+
+Points: 15
+
+
+
+Introduction: Description of program, goals, possible uses, etc.
+
+1
+
+
+
+Data: Where it’s from, how the program accepts and parses the data
+
+3
+
+
+
+Algorithm: How the program works with the data
+
+3
+
+
+
+Pros and Cons: How might the program be used in society either
+beneficially or harmfully
+
+3
+
+
+
+Challenges: I.e. issues with getting data, installing libraries,
+implementation, etc.
+
+2
+
+
+
+Conclusion/Takeaways
+o What surprised you (if anything)
+o What did you learn?
+
+1
+
+
+
+Overall: Opening/concluding slides, white-space balance, relevant
+pictures/charts, font uniformity etc
+
+1
+
+
+
+Organization/Clarity: Appropriate introduction, body, and conclusions;
+logical ordering of ideas; transitions between major points
+
+1
+
+Final Presentation – in person
+
+
+
+
+
+
+
+Points: 15
+
+Content
+o Importance of topic, relevance, accuracy of facts, overall treatment
+of topic
+o Presentation should have clear purpose with examples, statistics,
+and support claims/conclusions with evidence
+
+6
+
+Delivery: Adequate volume, appropriate pace, diction, personal
+appearance, enthusiasm/energy, posture, effective use of visual aids
+Interactions: Adequate eye contact with audience, ability to listen
+and/or answer questions
+
+6
+
+Audience
+o Student should be fully attentive while listening to others
+presentations
+o Student should provide least two questions or pieces of
+constructive feedback over the course of presentation
+
+3
+
+
